@@ -1,10 +1,16 @@
 _repo: Why-We-Punctuate-or-Reason-Versus-Rule-in-the-Use-of-Marks_47126
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47126-h/images/cover.jpg
 creator:
   author:
     agent_name: Klein, William Livingston
     gutenberg_agent_id: '44145'
     url: http://www.gutenberg.org/2009/agents/44145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47126#Why-We-Punctuate-or-Reason-Versus-Rule-in-the-Use-of-Marks
 gutenberg_issued: '2014-10-15'
 gutenberg_type: Text
 identifiers:
